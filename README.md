@@ -1,1 +1,2 @@
-The Soundex algorithm inserted into an openhash table.
+An approach to Soundex Algorithm.
+"Open hash" method.
