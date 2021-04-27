@@ -18,7 +18,10 @@ this.setWord=function(word){
 }
 
 }
+/*this is a comment*/
 
+let a=5;
+let b=10;
 
 function hash(word){
 	let key=[],i,j=0;
