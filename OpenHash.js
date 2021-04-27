@@ -20,8 +20,6 @@ this.setWord=function(word){
 }
 /*this is a comment*/
 
-let a=5;
-let b=10;
 
 function hash(word){
 	let key=[],i,j=0;
@@ -102,7 +100,7 @@ function insert_in_array(obj){
 
 let table=[];
 let Node;
-let pal=['Departamento','Almacenero','Deporte','Exequiel','Deportacion','Almacen','Dedo','Computadora','Companiero','Telefono','Televisor'];
+let pal=['Departamento','Almacenero','Deporte','Exequiel','Deportacion','Almacen','Dedo','Computadora','Companiero','Telefono','Televisor','Playstation'];
 for(let i=0;i<pal.length;i++){
     Node=new node();
 	Node.setWord(pal[i]);
