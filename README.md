@@ -1,3 +1,2 @@
 An approach to Soundex Algorithm.
-"Open hash" method.
-Hola mundo
+"Open hash" method made with Javascript.
